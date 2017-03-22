@@ -175,11 +175,8 @@ export default {
 
 <style lang="stylus" rel="stylesheet/stylus" scoped>
   #data-list
-    width: 80%
+    width: 100%
     height: 100%
-    float:left
-    padding: 10px 20px 20px 20px
-    overflow-y: scroll
     .btn-group
       margin: 0px 20px 20px 20px 	
       
